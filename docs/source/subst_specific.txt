@@ -1,0 +1,2 @@
+.. |short_name| replace:: Lib Name
+.. |full_name| replace:: Open Source Library Name
