@@ -16,8 +16,8 @@ release = '2021'
 # substitutions
 
 rst_prolog = """
-.. |short_name| replace:: Lib Name
-.. |full_name| replace:: Open Source Library Name
+.. include:: /subst_common.txt
+.. include:: /subst_specific.txt
 """
 
 # -- General configuration ---------------------------------------------------
